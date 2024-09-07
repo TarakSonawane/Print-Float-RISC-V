@@ -8,8 +8,8 @@
 * ***Solution***
   * This repository contains open-source RISC-V assembly code for printing floating-point numbers with high precision.
   * The implementation is designed to handle floating-point values efficiently and maintain precision, with an error margin of 0.0001 in certain cases.
-  * The code has been carefully structured with comments to guide users through the logic and implementation. 
- 
+  * The code has been carefully structured with comments to guide users through the logic and implementation.
+
 * ***About RISC V***
   * RISC-V assembly is a low-level programming language used for writing instructions that communicate directly with RISC-V processors.
   * It follows the RISC (Reduced Instruction Set Computing) principles, offering a simple, minimal set of instructions that are highly efficient and easy to implement.
@@ -39,3 +39,11 @@
 2.***Output on Terminal***
   
 ![2](https://github.com/user-attachments/assets/eeab5b3d-ff72-4655-8b5c-af7cd886b501)
+
+
+* ***My LinkedIn*** : https://www.linkedin.com/in/taraksonawane/
+
+
+
+
+
