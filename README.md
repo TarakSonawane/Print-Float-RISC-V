@@ -1,5 +1,7 @@
 # Print-Float-RISC-V
 
+* ***My LinkedIn*** : https://www.linkedin.com/in/taraksonawane/
+  
 * ***Problem Statement***
   * The RISC-V architecture does not provide a built-in system call (ecall) to directly print floating-point numbers.
   * This limitation makes it challenging to output float values with precision in RISC-V programs.
@@ -39,11 +41,4 @@
 2.***Output on Terminal***
   
 ![2](https://github.com/user-attachments/assets/eeab5b3d-ff72-4655-8b5c-af7cd886b501)
-
-
-* ***My LinkedIn*** : https://www.linkedin.com/in/taraksonawane/
-
-
-
-
 
